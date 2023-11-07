@@ -1,0 +1,6 @@
+{
+  "version" : "0.1.0",
+  "fhirVersion" : ["4.0.1"],
+  "date" : "20230908105215",
+  "name" : "who.fhir.smart-ig-empty"
+}

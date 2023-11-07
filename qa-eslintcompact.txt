@@ -1,0 +1,10 @@
+﻿/github/workspace/fsh-generated/resources/ImplementationGuide-who.fhir.smart-ig-empty.json: line 1, col 115, Error - Canonical URLs must be absolute URLs if they are not fragment references (SMARTImplementationGuide) (INVALID)
+/github/workspace/fsh-generated/resources/ImplementationGuide-who.fhir.smart-ig-empty.json: line 1, col 11560, Error - ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide|4.0.1) (STRUCTURE)
+/github/workspace/fsh-generated/resources/ImplementationGuide-who.fhir.smart-ig-empty.json: line 1, col 11561, Warning - Profile reference 'SMARTImplementationGuide' has not been checked because it is unknown, and the validator is set to not fetch unknown profiles (STRUCTURE)
+
+SMART : Validation Results
+=========================================
+
+err = 2, warn = 5, info = 0
+IG Publisher Version: 1.4.3
+Generated Fri Sep 08 10:53:31 UTC 2023. FHIR version 4.0.1 for who.fhir.smart-ig-empty#0.1.0 (canonical = http://worldhealthorganization.github.io/smart)
